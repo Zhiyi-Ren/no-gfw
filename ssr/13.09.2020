@@ -1,0 +1,51 @@
+選擇VPN只有兩個條件： 1.是看是否能秒開tg，能秒開則證明延遲低服務器好 2.是能不能秒開youtube 4k/8k，能秒開則證明速度不錯
+
+基於這些條件，推薦一個VPN，夏末優惠，2年$59.99 註冊：https://bit.ly/3gV1ffw
+
+光年vpn節點
+IP	埠	密碼	加密方法	協議	混淆
+158.247.194.132	12278	Gkf69gHyPcyu	aes-256-gcm	origin	plain
+207.246.109.208	9249	ewdMxk8J38KP	aes-256-gcm	origin	plain
+45.32.56.116	17183	ggW37rlT1DNr	aes-256-gcm	origin	plain
+198.13.53.197	12069	iTtjdhqx5jCC	aes-256-gcm	origin	plain
+
+社區節點
+IP	埠	密碼	加密方法	協議	混淆
+ssr-02.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+45.33.104.162	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.127.208	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+134.175.195.183	36129	QazEdcTgb159@$*	aes-128-cfb	origin	plain
+ssr-05.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+172.104.99.210	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.105.215.232	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.50.102	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.99.210	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+194.147.34.96	14404	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
+45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+172.104.50.102	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+192.240.99.182	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+194.156.120.102	8886	www.freess.best	none	auth_chain_a	plain
+45.33.104.162	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.105.215.232	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+45.79.90.66	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+139.162.15.45	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.127.208	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+ssr-01.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+45.79.90.66	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+104.237.154.204	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+139.162.38.42	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+139.162.38.42	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.161.54	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+45.8.158.33	14403	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
+104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+ssr-03.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
+172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+ssr-04.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
