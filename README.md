@@ -1,6 +1,8 @@
 # ss-ssr-v2ray
 提供免費的翻牆節點
 
+如果不能科學上網下載翻牆用軟體，這裡(簡體，有免費版本，支援iOS）>>>https://github.com/PandaVPN/panda
+
 選擇VPN只有兩個條件：
 
 1.是看是否能秒開tg，能秒開則證明延遲低服務器好
@@ -13,6 +15,7 @@ pandavpn擁有超過89個國家的1000+伺服器，佈滿全球，部分伺服�
 
 註冊：https://bit.ly/3gV1ffw
 
+#
 
 獲取美區apple id：發送電郵到zhiyiren2009@gmail.com
 
