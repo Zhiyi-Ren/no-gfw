@@ -9,12 +9,12 @@
 
 基於這些條件，推薦一個VPN，夏末優惠，2年$59.99
 
+pandavpn擁有超過89個國家的1000+伺服器，佈滿全球，部分伺服器支援P2P種子，支援tor
+
 註冊：https://bit.ly/3gV1ffw
 
 
-
-
-獲取美區apple id：zhiyiren2009@gmail.com
+獲取美區apple id：發送電郵到zhiyiren2009@gmail.com
 
 共用美區apple id（感謝panda vpn提供）：
 
