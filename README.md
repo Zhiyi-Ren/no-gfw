@@ -29,3 +29,11 @@ pandavpnpro1@hotmail.com Pandapro15
 2. 下載完 PandaVPN 以後，請及時退出賬號
 
 請務必遵守以上2條，不然手機有被鎖的風險！
+
+Note: (Important !!!)
+
+Please log in to the US AppleID in the AppStore ( not in the settings)
+
+After downloading Panda, please log out it in time
+
+Please follow the above 2 steps, otherwise your phone could be locked!
