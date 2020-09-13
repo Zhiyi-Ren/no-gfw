@@ -3,6 +3,8 @@
 
 如果不能科學上網下載翻牆用軟體，這裡(簡體，有免費版本，支援iOS）>>>https://github.com/PandaVPN/panda
 
+AppleID：https://github.com/Zhiyi-Ren/ss-ssr-v2ray#AppleID
+
 選擇VPN只有兩個條件：
 
 1.是看是否能秒開tg，能秒開則證明延遲低服務器好
