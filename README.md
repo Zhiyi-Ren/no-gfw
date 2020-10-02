@@ -1,7 +1,11 @@
 # ss-ssr-v2ray
 提供免費的翻牆節點
 
+其他免費資源見：
+
 Telegram頻道：https://t.me/giggle_channel
+
+Telegram閒聊群：https://t.me/giggle_group
 
 如果不能科學上網下載翻牆用軟體，這裡(簡體，有免費版本，支援iOS）>>>https://github.com/PandaVPN/panda
 
