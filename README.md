@@ -1,6 +1,8 @@
 # ss-ssr-v2ray
 提供免費的翻牆節點
 
+Zhiyi-Ren/no-gfw的ss ssr V2ray節點自10.10.2020將改爲訂閱地址
+
 其他免費資源見：
 
 Telegram頻道：https://t.me/giggle_channel
