@@ -5,6 +5,8 @@ Zhiyi-Ren/no-gfw的ss ssr V2ray節點自10.10.2020將改爲訂閱地址
 
 其他免費資源見：
 
+YouTube頻道：https://www.youtube.com/channel/UCSCRNXu-Bx-xM4Ih6gxLE1w
+
 Telegram頻道：https://t.me/giggle_channel
 
 Telegram閒聊群：https://t.me/giggle_group
