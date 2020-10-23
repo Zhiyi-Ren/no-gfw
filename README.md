@@ -3,6 +3,10 @@
 
 Zhiyi-Ren/no-gfw的ss ssr V2ray節點自10.10.2020將改爲訂閱地址
 
+更更更多免費資源：https://www.giggle.buzz/
+
+免費節點不穩定，超低價付費節點購買：https://cloud.giggle.buzz/
+
 其他免費資源見：
 
 YouTube頻道：https://www.youtube.com/channel/UCSCRNXu-Bx-xM4Ih6gxLE1w
